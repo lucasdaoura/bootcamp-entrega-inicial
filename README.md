@@ -21,5 +21,5 @@ O MedControl é uma ferramenta CLI (Linha de Comando) simples que permite cadast
 3. Execute o app: `python src/app.py`
 4. Execute os testes: `pytest`
 
-**Autor:** Seu Nome Completo
+**Autor:** Lucas de Castro Mota Daoura
 **Link do Repositório:** https://github.com/seu-usuario/medcontrol-projeto-social
