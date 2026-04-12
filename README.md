@@ -22,4 +22,4 @@ O MedControl é uma ferramenta CLI (Linha de Comando) simples que permite cadast
 4. Execute os testes: `pytest`
 
 **Autor:** Lucas de Castro Mota Daoura
-**Link do Repositório:** https://github.com/seu-usuario/medcontrol-projeto-social
+**Link do Repositório:** https://github.com/lucasdaoura/medcontrol-projeto-social
