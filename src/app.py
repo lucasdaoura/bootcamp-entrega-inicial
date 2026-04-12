@@ -1,3 +1,4 @@
+__version__ = "1.0.0"
 def adicionar_medicamento(lista, nome, horario):
     if not nome or not horario:
         return "Erro: Nome e horário são obrigatórios."
